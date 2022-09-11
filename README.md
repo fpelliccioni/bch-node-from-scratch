@@ -1,2 +1,2 @@
-# bch-node-from-scratch
-BCH node from scratch
+# Bitcoin (Cash) node from scratch
+
